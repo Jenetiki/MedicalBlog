@@ -1,8 +1,10 @@
-layout	title	author	categories	tags	image
-post
-About the Author
-Fariba
-facts
-sample
-cuba-4.jpg
+---
+layout: post
+title: "About the Author"
+author: "Fariba"
+categories: facts
+tags: [sample]
+image: cuba-4.jpg
+---
+
 Hi there!
