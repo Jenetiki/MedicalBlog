@@ -6,5 +6,3 @@ categories: jekyll update
 ---
 
 coming soon!
-
-markdown
