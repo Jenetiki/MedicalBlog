@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My blog pivots around genetics.
+Coming soon!

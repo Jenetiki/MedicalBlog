@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  Jenetiki
+title:  DailyIque
 email: us.odhiambo@gmail.com
-description: Genetics # >- this means to ignore newlines until "baseurl:"
+description: DailyIque # >- this means to ignore newlines until "baseurl:"
 
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Jenetiki
-github_username:  Jenetiki
+twitter_username: dailyique
+github_username:  dailyique
 
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
 
